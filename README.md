@@ -1,7 +1,8 @@
 # Minimal boilerplate for Meteoric
 
+Basic project to start playing with Meteoric.
 
-# Known issues
+## Known issues
 
 The first time meteor starts the following exception is shown.
 ```
